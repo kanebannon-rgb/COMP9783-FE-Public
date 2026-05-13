@@ -5,6 +5,6 @@
 - Features
 * Installation
 + Usage
-+ ScreenShots
+- ScreenShots
 * Contributing
 + Contact
