@@ -2,9 +2,11 @@
 
 ### This will Be the final Project for Front End Development
 
--Features
-*Installation
-+License
--Usage
-*ScreenShots
-+Contributing
+## Table of Contents
+
+- Features
+- Installation
+- License
+- Usage
+- Screenshots
+- Contributing
